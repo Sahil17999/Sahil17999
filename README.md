@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sahil-butt-47024424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-butt-47024424b" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilio_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilio_18" height="30" width="40" /></a>
-<a href="https://discord.gg/Sahil786#4695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sahil786#4695" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/MsT7JkbG7M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MsT7JkbG7M" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil17999&show_icons=true&locale=en" alt="sahil17999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil17999&" alt="sahil17999" /></p>
+
 
 
 <!---
