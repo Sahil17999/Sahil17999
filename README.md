@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil17999&" alt="sahil17999" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 <!---
 Sahil17999/Sahil17999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
