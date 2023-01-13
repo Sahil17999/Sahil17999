@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil17999&label=Profile%20views&color=0e75b6&style=flat" alt="sahil17999" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap, jQuery, SASS, and React.**
+- 🌱 I’m currently learning **jQuery, SASS, and React.**
 
-- 💬 Ask me about **Javascript(ES5 and ES6), HTML, and CSS.**
+- 💬 Ask me about **Javascript(ES5 and ES6), HTML, CSS, Bootstrap, and Git.**
 
 - 📫 How to reach me **sabutt@uwaterloo.ca**
 
