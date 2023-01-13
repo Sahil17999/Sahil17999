@@ -9,6 +9,7 @@
 - 💬 Ask me about: 
   <li>C++</li>
   <li>Javascript(ES5 and ES6)</li>
+  <li>Java</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
