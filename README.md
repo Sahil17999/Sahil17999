@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **SASS, React, and SQL.**
 
 - 💬 Ask me about: 
+  <li>C++</li>
   <li>Javascript(ES5 and ES6)</li>
   <li>HTML</li>
   <li>CSS</li>
