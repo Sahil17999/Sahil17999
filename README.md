@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **SASS, React, and SQL.**
 
-- 💬 Ask me about <br>**Javascript(ES5 and ES6), HTML, CSS, Bootstrap, jQuery and Git.**
+- 💬 Ask me about:
+-  **Javascript(ES5 and ES6), HTML, CSS, Bootstrap, jQuery and Git.**
 
 - 📫 How to reach me **sabutt@uwaterloo.ca**
 
