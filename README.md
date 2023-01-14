@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil17999&label=Profile%20views&color=0e75b6&style=flat" alt="sahil17999" /> </p>
 
-- 🌱 I’m currently learning **SASS, React, and SQL.**
+- 🌱 I’m currently learning **React and SQL.**
 
 - 💬 Ask me about: 
   <li>C++</li>
@@ -12,6 +12,7 @@
   <li>Java</li>
   <li>HTML</li>
   <li>CSS</li> 
+  <li>SASS</li>
   <li>Bootstrap</li>
   <li>jQuery</li>
   <li>Git</li>
